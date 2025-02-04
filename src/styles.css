@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.app-body {
+  border: 2px solid black;
+}
+
+.headings {
+  display: flex;
+}
+
+.heading {
+  border: 2px solid black;
+  margin: 0 5px 0 5px;
+  padding: 5px;
+}
